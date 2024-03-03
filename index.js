@@ -1,1 +1,1 @@
-"ABCX hello world again"
+console.log("Hello JS")
